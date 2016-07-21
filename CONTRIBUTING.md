@@ -1,3 +1,5 @@
+#hello --- edited by Jijo
+
 # Welcome to libgit2!
 
 We're making it easy to do interesting things with git, and we'd love to have
@@ -159,3 +161,6 @@ file](https://github.com/libgit2/libgit2/blob/development/CONVENTIONS.md).
 
 See our [projects
 list](https://github.com/libgit2/libgit2/blob/development/PROJECTS.md).
+
+
+## edited by Jijo
